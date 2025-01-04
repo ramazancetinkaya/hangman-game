@@ -1,0 +1,170 @@
+{
+  "technology": [
+      {"word": "computer", "difficulty": "easy"},
+      {"word": "internet", "difficulty": "easy"},
+      {"word": "algorithm", "difficulty": "medium"},
+      {"word": "software", "difficulty": "medium"},
+      {"word": "encryption", "difficulty": "hard"},
+      {"word": "microprocessor", "difficulty": "hard"}
+  ],
+  "sports": [
+      {"word": "soccer", "difficulty": "easy"},
+      {"word": "tennis", "difficulty": "easy"},
+      {"word": "cricket", "difficulty": "medium"},
+      {"word": "baseball", "difficulty": "medium"},
+      {"word": "gymnastics", "difficulty": "hard"},
+      {"word": "triathlon", "difficulty": "hard"}
+  ],
+  "music": [
+      {"word": "guitar", "difficulty": "easy"},
+      {"word": "piano", "difficulty": "easy"},
+      {"word": "symphony", "difficulty": "medium"},
+      {"word": "orchestra", "difficulty": "medium"},
+      {"word": "composition", "difficulty": "hard"},
+      {"word": "improvisation", "difficulty": "hard"}
+  ],
+  "movies": [
+      {"word": "drama", "difficulty": "easy"},
+      {"word": "comedy", "difficulty": "easy"},
+      {"word": "thriller", "difficulty": "medium"},
+      {"word": "documentary", "difficulty": "medium"},
+      {"word": "cinematography", "difficulty": "hard"},
+      {"word": "screenwriting", "difficulty": "hard"}
+  ],
+  "science": [
+      {"word": "planet", "difficulty": "easy"},
+      {"word": "gravity", "difficulty": "easy"},
+      {"word": "evolution", "difficulty": "medium"},
+      {"word": "photosynthesis", "difficulty": "medium"},
+      {"word": "relativity", "difficulty": "hard"},
+      {"word": "neuroscience", "difficulty": "hard"}
+  ],
+  "literature": [
+      {"word": "poem", "difficulty": "easy"},
+      {"word": "novel", "difficulty": "easy"},
+      {"word": "fiction", "difficulty": "medium"},
+      {"word": "metaphor", "difficulty": "medium"},
+      {"word": "protagonist", "difficulty": "hard"},
+      {"word": "epistolary", "difficulty": "hard"}
+  ],
+  "geography": [
+      {"word": "river", "difficulty": "easy"},
+      {"word": "mountain", "difficulty": "easy"},
+      {"word": "archipelago", "difficulty": "medium"},
+      {"word": "peninsula", "difficulty": "medium"},
+      {"word": "longitude", "difficulty": "hard"},
+      {"word": "cartography", "difficulty": "hard"}
+  ],
+  "history": [
+      {"word": "empire", "difficulty": "easy"},
+      {"word": "revolt", "difficulty": "easy"},
+      {"word": "renaissance", "difficulty": "medium"},
+      {"word": "revolution", "difficulty": "medium"},
+      {"word": "constitution", "difficulty": "hard"},
+      {"word": "feudalism", "difficulty": "hard"}
+  ],
+  "animals": [
+      {"word": "tiger", "difficulty": "easy"},
+      {"word": "eagle", "difficulty": "easy"},
+      {"word": "dolphin", "difficulty": "medium"},
+      {"word": "alligator", "difficulty": "medium"},
+      {"word": "platypus", "difficulty": "hard"},
+      {"word": "chameleon", "difficulty": "hard"}
+  ],
+  "food": [
+      {"word": "bread", "difficulty": "easy"},
+      {"word": "cheese", "difficulty": "easy"},
+      {"word": "lasagna", "difficulty": "medium"},
+      {"word": "paella", "difficulty": "medium"},
+      {"word": "sushi", "difficulty": "hard"},
+      {"word": "bouillabaisse", "difficulty": "hard"}
+  ],
+  "fashion": [
+      {"word": "shirt", "difficulty": "easy"},
+      {"word": "jeans", "difficulty": "easy"},
+      {"word": "runway", "difficulty": "medium"},
+      {"word": "couture", "difficulty": "medium"},
+      {"word": "silhouette", "difficulty": "hard"},
+      {"word": "accessories", "difficulty": "hard"}
+  ],
+  "mythology": [
+      {"word": "zeus", "difficulty": "easy"},
+      {"word": "thor", "difficulty": "easy"},
+      {"word": "hera", "difficulty": "medium"},
+      {"word": "poseidon", "difficulty": "medium"},
+      {"word": "cerberus", "difficulty": "hard"},
+      {"word": "ragnarok", "difficulty": "hard"}
+  ],
+  "travel": [
+      {"word": "hotel", "difficulty": "easy"},
+      {"word": "beach", "difficulty": "easy"},
+      {"word": "tourist", "difficulty": "medium"},
+      {"word": "passport", "difficulty": "medium"},
+      {"word": "backpacking", "difficulty": "hard"},
+      {"word": "itinerary", "difficulty": "hard"}
+  ],
+  "vehicles": [
+      {"word": "car", "difficulty": "easy"},
+      {"word": "boat", "difficulty": "easy"},
+      {"word": "airplane", "difficulty": "medium"},
+      {"word": "submarine", "difficulty": "medium"},
+      {"word": "helicopter", "difficulty": "hard"},
+      {"word": "spaceship", "difficulty": "hard"}
+  ],
+  "health": [
+      {"word": "diet", "difficulty": "easy"},
+      {"word": "yoga", "difficulty": "easy"},
+      {"word": "vitamin", "difficulty": "medium"},
+      {"word": "workout", "difficulty": "medium"},
+      {"word": "metabolism", "difficulty": "hard"},
+      {"word": "cardiovascular", "difficulty": "hard"}
+  ],
+  "space": [
+      {"word": "star", "difficulty": "easy"},
+      {"word": "moon", "difficulty": "easy"},
+      {"word": "asteroid", "difficulty": "medium"},
+      {"word": "galaxy", "difficulty": "medium"},
+      {"word": "blackhole", "difficulty": "hard"},
+      {"word": "quasar", "difficulty": "hard"}
+  ],
+  "art": [
+      {"word": "paint", "difficulty": "easy"},
+      {"word": "brush", "difficulty": "easy"},
+      {"word": "sculpture", "difficulty": "medium"},
+      {"word": "canvas", "difficulty": "medium"},
+      {"word": "mosaic", "difficulty": "hard"},
+      {"word": "calligraphy", "difficulty": "hard"}
+  ],
+  "programming": [
+      {"word": "python", "difficulty": "easy"},
+      {"word": "java", "difficulty": "easy"},
+      {"word": "compiler", "difficulty": "medium"},
+      {"word": "framework", "difficulty": "medium"},
+      {"word": "recursion", "difficulty": "hard"},
+      {"word": "polymorphism", "difficulty": "hard"}
+  ],
+  "emotions": [
+      {"word": "happy", "difficulty": "easy"},
+      {"word": "sad", "difficulty": "easy"},
+      {"word": "jealous", "difficulty": "medium"},
+      {"word": "anxiety", "difficulty": "medium"},
+      {"word": "melancholy", "difficulty": "hard"},
+      {"word": "ecstasy", "difficulty": "hard"}
+  ],
+  "jobs": [
+      {"word": "teacher", "difficulty": "easy"},
+      {"word": "doctor", "difficulty": "easy"},
+      {"word": "engineer", "difficulty": "medium"},
+      {"word": "lawyer", "difficulty": "medium"},
+      {"word": "architect", "difficulty": "hard"},
+      {"word": "scientist", "difficulty": "hard"}
+  ],
+  "weather": [
+      {"word": "rain", "difficulty": "easy"},
+      {"word": "wind", "difficulty": "easy"},
+      {"word": "storm", "difficulty": "medium"},
+      {"word": "hurricane", "difficulty": "medium"},
+      {"word": "blizzard", "difficulty": "hard"},
+      {"word": "tornado", "difficulty": "hard"}
+  ]
+}
