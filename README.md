@@ -7,11 +7,11 @@
 
 Hangman Game is an engaging and interactive word-guessing game designed for the web. Built using HTML5, CSS, and JavaScript, it combines a sleek, user-friendly interface with responsive design to provide a seamless gaming experience across devices. Explore diverse word categories and test your vocabulary skills in a fun and challenging way.
 
-## Live Demo
+## Live Demo 🌐
 
-**Click below to play instantly!**
+**Play the game instantly via GitHub Pages!**
 
-[![Demo](https://img.shields.io/badge/Demo-Play%20Now-blue?style=for-the-badge)](https://ramazancetinkaya.github.io/hangman-game)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Play%20Now-brightgreen?style=for-the-badge&logo=github)](https://ramazancetinkaya.github.io/hangman-game)
 
 ---
 
