@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangman Game</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Hangman Game</h1>
+        <div class="category" id="category">Category: <span class="highlight">category</span></div>
+        <div class="difficulty" id="difficulty">Difficulty: <span class="highlight">difficulty</span></div>
+        <canvas id="hangman" width="300" height="400"></canvas>
+        <div class="word" id="word"></div>
+        <div class="letters" id="letters"></div>
+        <div class="remaining" id="remaining"></div>
+    </div>
+
+    <footer>
+        Made with <span>♥</span> by <a href="https://github.com/ramazancetinkaya" target="_blank">Ramazan Çetinkaya</a>
+    </footer>
+
+    <div class="popup" id="popup">
+        <h2 id="popup-message"></h2>
+        <button onclick="startNewGame()">New Game</button>
+    </div>
+
+    <div class="popup" id="error-popup">
+        <h2>Unable to load words</h2>
+        <p>Please check your internet connection or try again later.</p>
+        <button onclick="location.reload()">Retry</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
